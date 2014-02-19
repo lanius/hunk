@@ -23,13 +23,16 @@ Or:
 Usage
 -----
 
+Basics
+~~~~~~
+
 Setup data directory and files. 
 
-- Directories under the root have a HTTP method name
+- Directories under the root directory have a HTTP method name
 - Directories and files have name to be resource path
 - Files have conent to be response JSON
 
-For example:
+For example, see demo/simple directory:
 
 .. code-block:: bash
 
